@@ -1,0 +1,16 @@
+<launch>
+
+
+
+    <!-- launch object B detector (geometric shapes) -->
+
+ 	<node pkg="shape_detection_matching" name="shape_node" type="shape_detector_node.py"></node> 
+
+
+ 
+
+
+
+
+
+</launch>
